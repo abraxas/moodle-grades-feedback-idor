@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/moodle-grades-feedback-idor">moodle-grades-feedback-idor</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/moodle-grades-feedback-idor"><strong>https://abraxaslabs.tech/research/moodle-grades-feedback-idor</strong></a>
+</p>
+
 
 # moodle-grades-feedback-idor
 
